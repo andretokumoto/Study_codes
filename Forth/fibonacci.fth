@@ -7,4 +7,4 @@
 
 \ Exemplo de uso: exibe os primeiros N números da sequência de Fibonacci, onde N é o número na pilha
 5 
-fibonacci \ Chama a palavra fibonacci com o argumento 5
+fibonacci \ Chama a palavra fibonacci com o argumento 5 
