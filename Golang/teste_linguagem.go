@@ -1,3 +1,5 @@
+//teste
+
 package main
 
 import "fmt"
